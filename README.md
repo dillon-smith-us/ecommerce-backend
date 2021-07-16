@@ -18,6 +18,8 @@
     ## USAGE
     
     User should run node seeds to populate their mySQL database "ecommerce_db". Then user should npm start, and app should be listening on local host 3001. Follow the video for insomnia uses.
+
+    * [example](https://drive.google.com/file/d/1hHOGpVQg1-gsloWcTsjZ4HI9HnA2McDe/view)
   
     ## LICENSE
   
